@@ -1,64 +1,31 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/thehaseebabbas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm Haseeb</h1>
+<h3 align="center">A passionate Software Engineer focused on building impactful digital experiences.</h3>
+<h4 align="left">💻 Flutter Developer with around 2 years of hands-on experience at Technosoft Solutions, Lahore, where I’ve contributed to projects like TrackEye360, InterviewAway AI, TaskSync, and PharmEazy, using Riverpod, GetX, and Bloc to craft scalable, cross-platform apps.</h4>
+<h4 align="left">📱 Android Developer with over 3 years of experience — from freelancing to remote roles at MHV Media — where I developed robust apps using Kotlin, Jetpack Compose, and Room DB, following clean architecture and MVVM principles.</h4>
+<h4 align="left">🚀 I’m driven by a love for creating seamless, intuitive user experiences, and I’m always exploring how to push the limits of mobile development.</h4>
+<h4 align="left">🌐 Comfortable working with backend services, especially Firebase, for secure authentication, real-time data, and cloud functions.</h4>
+<h4 align="left">🌱 Constantly learning and experimenting with new tools, frameworks, and best practices to stay at the forefront of the tech world.</h4>
 
-###
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thehaseebabbas&label=Profile%20views&color=0e75b6&style=flat" alt="thehaseebabbas" /> </p>
 
-<div align="center">
-  <img height="150" src="https://github.com/TheHaseebAbbas.png"  />
-</div>
+- 📝 I regularly write articles on [Medium](https://thehaseebabbas.medium.com/)
 
-###
+- 📫 How to reach me **thehaseebabbas@gmail.com**
 
-<h1 align="center">hey there 👋</h1>
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1jiKf66wCQZpo2H5-EpkigaM2ezH0KPOR/view?usp=sharing)
 
-###
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thehaseebabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thehaseebabbas" height="30" width="40" /></a>
+<a href="https://medium.com/@thehaseebabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thehaseebabbas" height="30" width="40" /></a>
+<a href="https://dev.to/thehaseebabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thehaseebabbas" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p align="left">I'm Haseeb, an enthusiastic software engineer dedicated to crafting exceptional digital experiences. Here's a glimpse into what you'll find on my profile:<br><br>💻 Flutter enthusiast with nine months of hands-on experience at Technosoft Solutions Lahore, where I've been pushing the boundaries of mobile technology to create captivating cross-platform applications.<br><br>📱 Seasoned Android developer with three years of hands-on experience, journeying from freelancing to remote work with MHV Media, where I honed my skills in crafting cutting-edge mobile applications.<br><br>🚀 Passionate about delivering seamless user experiences and constantly pushing the envelope of what's possible in mobile development.<br><br>🌐 Well-versed in backend technologies, leveraging Firebase for scalable and secure backend solutions.<br><br>🌱 Always learning and experimenting with new technologies to stay ahead in the ever-evolving tech landscape.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<!--
-**TheHaseebAbbas/TheHaseebAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehaseebabbas&" alt="thehaseebabbas" /></p>
