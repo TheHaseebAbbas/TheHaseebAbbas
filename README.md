@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1jiKf66wCQZpo2H5-EpkigaM2ezH0KPOR/view?usp=sharing)
 
-- My other Github [haseebabbas-ts](https://github.com/haseebabbas-ts)
+- 💼 Explore my professional contributions at my company GitHub account: [haseebabbas-ts](https://github.com/haseebabbas-ts)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
